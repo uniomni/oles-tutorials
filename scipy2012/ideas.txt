@@ -1,0 +1,22 @@
+
+
+Dynamic typing: Vector/Raster constructor in InaSAFE and set_quantity in ANUGA
+
+Scientific Reproducibility (link from Tim)
+
+Testing on Github (Drive-by commits)
+http://blog.leif.me/2012/09/github-testing/
+
+Optimising with Numpy - having the algorithm in Python with lots of test.
+Then profile and play with numpy until it runs faster. Importance of rapid
+feedback.
+
+
+Bring QGIS and SciPY closer together.
+Example:
+1: Simplify algorithm doesn't work. E.g. it takes 100m, 200m, ... as measure of simplification and therefore doesn't work with (lat, lon). Surely there are more sophisticated methods out there. http://hub.qgis.org/issues/4189
+2: Centroids too
+3: Transparency classes work as discrete integers - a mathematical approach would be to use intervals.
+
+
+I always end up writing a datamanager.py module real quick because I want to get on with the maths. However, this module invariable turns out to be a mess, then needs much attention and eventually becomes a core library anyway.

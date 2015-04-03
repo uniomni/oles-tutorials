@@ -1,0 +1,23 @@
+
+# Install dependencies
+sudo apt-get install qgis python-numpy python-gdal subversion
+
+
+# Test 1 - import test
+from osgeo import gdal, ogr, osr
+import numpy
+
+
+# Test 2 - Full test of python dependencies
+svn checkout http://oles-tutorials.googlecode.com/svn/trunk/scipy2012/geoprocessing_tutorial/source test_code
+cd test_code
+python test_geodesy.py
+python test_interpolate.py
+python test_io.py
+python test_engine.py
+
+
+# Test 3 - run qgis on test shapefile
+# This should show the GIS layer as in the attached screenshot
+cd spatial_test_data
+qgis kecamatan_geo.shp

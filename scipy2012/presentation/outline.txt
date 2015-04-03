@@ -1,0 +1,38 @@
+Thanks
+
+My background.
+My projects (anuga, riab, realtime impact, pypar, wavelets, aim, tsunami, seismology_teknik, ...)
+
+Python
+
+
+Critical software development practices
+
+1 Testing (unit, integration, regression, system): Protect the code you care about. Save your own time in long run
+
+2 Error messages (examples). Saves time for everyone else (including yourself)
+
+3 Documentation - Hard, but essential if collaborating. At a minimum use docstrings. Examples (Shoaib and GDAL/OGR docstrings)
+
+4 Revision control and issue tracking - link commits and tests with issues. Examples (e.g. RIAB scaling, keywords, interpolation, centroids)
+
+5 Ease of deployment (No one has the patience). FALL3D 1st training workshop. Example where software never got to run on my machine even after I let the developer have access to it. Shakemap example in training workshop, need to change Ubuntu version and re-deploy. Hard.
+Show how e.g. Risiko installs.
+
+6 Style guide critical. Examples. Two PEP8 requirements that I found hard but did anyway:
+Line lengths and formula spacing
+
+7 Always let profiling drive optimisation.
+
+My one-liners
+
+If it doesn't have unit test it doesn't exist
+If it isn't on the web it doesn't exist
+If it can't install it doesn't exist
+Get it right - then fast
+Open Source - Of Course.
+No news is good news: Either do what is expected or raise a sensible error message.
+
+
+Finally, the importance of reproducibility. The ethos of the scientific tradition!
+

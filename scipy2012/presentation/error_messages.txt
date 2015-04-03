@@ -1,0 +1,10 @@
+fitpack2.py:
+Exception Value: (my>ky) failed for hidden my: regrid_smth:my=2
+
+
+syntax error: line 1, column 0
+
+Number of warnings : 0
+Number of errors : 1
+write_dbs_grid: error in nf90_enddef
+PROGRAM SETDBS ends abnormally

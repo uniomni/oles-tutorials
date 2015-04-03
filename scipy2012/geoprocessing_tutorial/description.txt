@@ -1,0 +1,15 @@
+
+-------------------------------------------------------------------------------------------
+Ole Nielsen: Mapping and Geoprocessing with Python, 2 hrs
+
+Putting information on a map and analyzing spatial data are fundamental to a wide range of areas such as navigation, working with climate or geological data, disaster management, presentation of modelling results, demographics, social networking etc. However, making and viewing maps is just the tip of the iceberg: to communicate spatial information much work is needed under the hood to read, write, manipulate and process the data underpinning the maps.
+
+This tutorial will give a practical introduction to tools and techniques available for processing spatial information and, through hands-on exercises, give the participants a sense of how to manipulate spatial data using Python. Depending on time, topics covered include reading and writing of important data formats for both raster and vector data, looking at the layers with qgis, awareness of issues with datums and projections, calculating area and centroids of polygons, performance enhancement using vector operations, numerical stability issues, calculation of distance between points on the surface of Earth, interpolation from raster grids to points etc. The tutorial has been developed for Ubuntu Linux 11.04/11.10 and will provide source code, tests and data for this platform. However, the content and messages should be general and apply to any self-respecting platform.
+
+I assume that participants know how to write and run Python scripts and are OK having a crack at implementing simple numerical operations such as summations in Python. I don't assume any previous knowledge of mapping or Geographic Information Systems (GIS). The tutorial depends on the packages qgis and gdal-bin as well as the python dependencies python-numpy and python-gdal which are preloaded on the distributed live-DVD. The tutorial material itself will be available in the Subversion repository http://oles-tutorials.googlecode.com/svn/trunk/scipy2012 and also on a USB stick that I will bring along.
+
+If you have some spatial data you want to manipulate in Python feel free to bring it along and grab me during a lunch break.
+
+Looking forward to meet you
+Ole Nielsen
+---------------------------------------------

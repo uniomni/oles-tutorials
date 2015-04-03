@@ -1,0 +1,25 @@
+Why spatial information and geoprocessing?
+
+Where GIS meet Scientific Computing.
+
+Overview of tools available (gdal, shapely, matplotlib, qgis, geoserver, ....)
+
+Data formats, projections, resolution...
+
+
+Exercises
+
+Getting to the data
+* Reading and writing of raster and vector data
+
+Processing examples
+* Calculation of polygon centroids - correctness, speed, stability
+* Calculation of distances between points (Haversine)
+
+Where rasters meet vectors
+* Interpolation from raster data to points (bilinear, constant, NaN)
+* Contouring
+* (Clipping)
+
+
+

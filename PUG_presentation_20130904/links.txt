@@ -1,0 +1,3 @@
+http://michaellant.com/2010/05/18/how-to-make-your-project-not-suck/
+http://c2.com/cgi/wiki?TestDrivenDevelopment
+http://www.agiledata.org/essays/tdd.html#TraditionalTesting

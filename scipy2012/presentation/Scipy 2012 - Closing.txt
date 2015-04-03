@@ -1,0 +1,41 @@
+Scipy 2012 Closing
+
+
+The great scientific discoveries of the past centuries have all been possible because scientists could stand on the shoulders of those who came before them.
+
+The origin of species, the heliocentric view of the universe, Watson and Crick's DNA model, The Von Neuman machine and the Internet. All of these breakthroughs ocould not have happened unless the science that made them possible were
+* published
+* peer reviewed 
+* reproducible
+
+The Open Source Model is the natural extension of this scientific ethos. Great software is achieved because
+
+* It can be based on the best available knowledge and existing Open Source modules
+* It is published and hence open for peer review
+
+I was very impressed to see FOSSEE is doing and saw for example the Aakash project the other day. 
+* It leverages low cost hardware and open source software
+* It uses the widespread and rock solid Linux distribution
+* It is targeted at a very large volume of students and therefore positioned to influence future thinking
+
+
+
+The success of Software is not determined by how much each copy can be sold at or a total revenue. It is determined in the long term as 
+* the number of people that are using it 
+* which decisions are made differently as a result of it
+* how much other software depends on it 
+* how much it is being used
+
+Open Source development is therefore a long term and strategic consideration rather than a short term tactical aim. This is why it is becoming such an integral part of life - not just in science where it started but in almost all aspects of life. 
+
+I recall starting in the public service in 2003 and having to constantly explain why Open Source is so important both as something to use and a way to develop. But was often met with suspicion and resistance. In 2010 I attended an event in Washing DC (Random Hacks of Kindness). The opening reception was held at the US state department with one speaker representing Hilary Clinton and Vint Cerf talking about how important it is to have open standards and that it is the things that you use every day that will be most useful to you in times of crises.
+
+As I was standing there listening to this, I realised that 2010 was the year were Open Source crossed over into public life and governments. I wouldn't have to explain it anymore.
+
+This conference is a great testimony to this trend and the FOSSEE group is doing vital work in furthering research and development in Open Source software. 
+
+It has been a great pleasure and honour for me to attend and I have learned a lot which I will bring back to my fellow scientists and developers in Indonesia, Denmark and Australia.
+
+ 
+
+
